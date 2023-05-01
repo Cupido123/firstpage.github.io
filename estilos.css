@@ -1,0 +1,416 @@
+#cuerpo{
+   background-color: rgb(36, 206, 58);
+   width:450px;
+   height: 225px;;
+   text-align:center;
+   margin-left:400px;
+   margin-top:100px;
+}
+#body{
+    background-color: rgba(220, 235, 241, 0.795);
+    
+}
+#titulo{
+    text-align: center;
+}
+#imagen{   
+    width:20%;
+    height:20vh;
+    margin-left: 450px;
+}
+#imagen1{   
+    width:30%;
+    height:50vh;
+    margin-left:450px;
+}
+#imagen2{  
+    align-items: center; 
+    width:20%;
+    height:20vh;
+}
+#imagen2{   
+    width:20%;
+    height:20vh;
+}
+#imagen2{   
+    width:20%;
+    height:20vh;
+}
+#at{
+    width:20%;
+    height:20vh;
+}
+#tabla{
+    border:solid;
+
+}
+table tr,td{
+    border:solid
+}
+#rojo{
+    color:#b6e439;
+}
+strong{
+    color: rgb(28, 5, 29);
+}
+#texto{
+    text-align: center;
+}
+#cua{
+    padding-left: 1cm;
+    text-align: left;
+    width:40%;
+    height:52vh;
+    background-color: #4fa7d6;
+}  
+#p{
+    color:rgb(142, 167, 197);
+    font-size: 60px;
+}
+
+#tres{
+    color:rgb(26, 92, 17);
+    font-size: 60px;
+}
+#fila1{
+background-color: rgb(214, 185, 55);
+
+}
+#fila2{
+background-color: rgb(29, 41, 206);
+    
+}
+#fila3{
+background-color: rgb(33, 235, 67);
+    
+}
+#jpeg{
+
+    width:20%;
+    height:20vh;
+
+
+}
+#cuerpo{
+text-align: justify;
+}
+
+#uno{
+    background-color: rgb(7, 216, 24);
+    }
+
+#dos{
+background-color: rgb(55, 214, 214);
+}
+
+#h{
+background-color: rgba(72, 41, 245, 0.795);
+}
+
+#c{
+background-color: rgb(206, 226, 23)
+}
+
+#row1{
+    background-color: rgb(218, 235, 122);
+    }#row2{
+        background-color: rgb(228, 172, 67);
+        }#row3{
+            background-color: rgb(221, 129, 23);
+            }#row4{
+                background-color: rgb(179, 226, 187);
+                }
+            #row5{
+                background-color: rgb(15, 91, 121);
+                }
+             #row6{
+                    background-color: rgb(121, 133, 138);
+                    }
+                    #row1{
+                        background-color: rgb(238, 238, 236);
+                    }
+                    #row7{
+                        background-color: rgb(246, 249, 250);
+                    }
+                    #row8{
+                        background-color: rgb(142, 144, 145);
+                    }
+                    #row9{
+                        background-color: rgb(185, 186, 187);
+                    }
+                    #row10{
+                        background-color: rgb(247, 205, 21);
+                    }                    
+                    #row11{
+                        background-color: rgba(194, 149, 1, 0.74);
+                    }
+                    #row12{
+                        background-color: rgb(233, 75, 13);
+                    }   
+                    #row13{
+                        background-color: rgb(221, 44, 44);
+                    }
+                    #row14{
+                        background-color: rgb(125, 37, 188);
+                    }
+                    #row15{
+                        background-color: rgb(8, 106, 205);
+                    }
+                    #row16{
+                        background-color: rgb(63, 56, 161);
+                    }
+                    #row17{
+                        background-color: rgb(49, 161, 68);
+                    }
+                    #row18{
+                        color: rgb(241, 243, 245);
+                        background-color: rgba(10, 10, 10, 0.986);
+                    }
+                    #cuadro1{
+                        background-color: rgba(48, 159, 173, 0.724);
+                    }
+                    #cuadro2{
+                        background-color: rgb(148, 123, 167);
+                    }
+                    #cuadro3{
+                        background-color: rgb(180, 192, 109);
+                    }
+                    #cuadro4{
+                        background-color: rgb(130, 231, 245);
+                        }
+                    #cuadro5{
+                      background-color: rgb(45, 233, 145);
+                            }    
+                    #sh{
+                        height:20vh ;
+                        width: 120px;
+                    }
+
+                    #va{
+                        height:20vh ;
+                        width: 150px;
+                    }
+
+                    #ar{
+                        height:20vh ;
+                        width: 120px;
+                    }
+
+                    #ju{
+                        height:20vh ;
+                        width: 120px;
+                    }
+
+                    #ma{
+                        height:20vh ;
+                        width: 120px;
+                    }
+
+                    #cr{
+                        height:20vh ;
+                        width: 120px;
+                    }
+
+                    #ni{
+                        height:20vh ;
+                        width: 120px;
+                    }
+                    #va{
+                        height:20vh ;
+                        width: 120px;
+                    }
+                    #ji{
+                        height:20vh ;
+                        width: 120px;
+                    }
+
+                    #bri{
+                        height:20vh ;
+                        width: 120px;
+                    }
+
+                    #reb{
+                        height:20vh ;
+                        width: 120px;
+                    }
+
+                    #jo{
+                        height:20vh ;
+                        width: 120px;
+                    }
+                    
+                    #he{
+                        height:20vh ;
+                        width: 120px;
+                    }
+
+                    #ya{
+                        height:20vh ;
+                        width: 120px;
+                    }
+
+                    #z{
+                        height:25vh ;
+                        width: 170px;
+                    }
+
+                    #y{
+                        height:25vh ;
+                        width: 260px;
+                    }
+
+                    #xa{
+                        height:25vh ;
+                        width: 260px;
+                    }
+
+                    #w{
+                        height:25vh ;
+                        width: 260px;
+                    }
+
+                    #v{
+                        height:25vh ;
+                        width: 260px;
+                    }
+
+                    #alts{
+                        height:20vh ;
+                        width: 80px;
+                    }
+
+                    #PA{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+
+                    #MA{
+                        height:35vh ;
+                        width: 200px;
+                    }
+
+
+                    #SA{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    
+                    #od{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #al{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #ap{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #ao{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #ai{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #ak{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #am{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #an{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #aw{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #as{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #az{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #ax{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #ad{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #wi{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #sa{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    #fe{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    
+                    #miss{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    
+                    #so{
+                        height:30vh ;
+                        width: 200px;
+                    }
+
+                    
+                    #mu{
+                        height:40vh ;
+                        width: 200px;
+                    }
+
+                      
+                    #tus{
+                        height:40vh ;
+                        width: 200px;
+                    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
